@@ -128,3 +128,8 @@ typings/
 .history
 
 # End of https://www.gitignore.io/api/node,macos,visualstudiocode
+
+# aws credential info
+provider.tf
+
+.terraform
