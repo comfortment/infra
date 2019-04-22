@@ -133,3 +133,5 @@ typings/
 provider.tf
 
 .terraform
+*.tfstate
+*.tfstate.*
